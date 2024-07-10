@@ -1,4 +1,4 @@
-#Java Projects bt
+Java Projects bt
  - Spring Boot 
 - Spring IoC  ve Dependency Injection ile bağımlılık yönetimi
 - Hibernate ve JPA kullanarak veritabanı işlemleri
